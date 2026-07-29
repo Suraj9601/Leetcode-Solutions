@@ -1,7 +1,7 @@
-import java.util.Queue;
+import java.util.*;
 class MyStack {
-    Queue<Integer> q1 = new LinkedList();
-    Queue<Integer> q2 = new LinkedList();
+    Queue<Integer> q1 = new LinkedList<>();
+    Queue<Integer> q2 = new LinkedList<>();
 
     public MyStack() {
         
