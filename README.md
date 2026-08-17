@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
