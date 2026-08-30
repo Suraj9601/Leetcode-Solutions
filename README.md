@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
