@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
