@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suraj9601/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
